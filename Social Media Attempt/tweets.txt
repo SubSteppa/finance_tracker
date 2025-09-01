@@ -1,7 +1,0 @@
-admin: First ever post
-Admin2: Admin 2, first ever poost
-admin: Hello
-admin: post
-admin: post
-admin: hello
-admin: ahhh sweet
